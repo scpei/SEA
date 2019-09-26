@@ -1,19 +1,10 @@
 Demo code of SEA.
 
-The implementation is based on the code and data of MTransE which can be cited below. Thanks Dr.Muhao for his fundamental work and contributions.
+The implementation is based on the code and data of MTransE. Thanks Dr.Muhao for his fundamental work and contributions.
 
 This version is based on entity-level alignment, instead of triple-level alignment.
 
 Contact: Shichao Pei (shichao.pei@kaust.edu.sa)
-
-@inproceedings{chen2017multilingual,
-  title={Multilingual knowledge graph embeddings for cross-lingual knowledge alignment},
-  author={Chen, Muhao and Tian, Yingtao and Yang, Mohan and Zaniolo, Carlo},
-  booktitle={Proceedings of the 26th International Joint Conference on Artificial Intelligence},
-  pages={1511--1517},
-  year={2017},
-  organization={AAAI Press}
-}
 
 Usage:
 
