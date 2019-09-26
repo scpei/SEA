@@ -23,7 +23,6 @@ test_data = '../example_data/15k/en_fr_dict_15k_test.txt'
 tester = Tester()
 tester.build(save_path = model_file, data_save_path = data_file)
 tester.load_test_data(test_data, splitter = '@@@@', line_end = '\n')
-# tester.load_except_data(except_data, splitter = '@@@@', line_end = '\n')
 
 def div_list(ls, n):
     ls_len = len(ls)
