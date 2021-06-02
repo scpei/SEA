@@ -1,5 +1,9 @@
 ## Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 
+The study in this paper focuses on two important issues that limit the accuracy of current entity alignment solutions: 
+1) labeled data of priorly aligned entity pairs are difficult and expensive to acquire, whereas abundant of unlabeled data are not used;
+2) knowledge graph embedding is affected by entity’s degree difference, which brings challenges to align high frequent and low frequent entities.
+
 The implementation is based on the code and data of MTransE.
 
 This version is based on entity-level alignment, instead of triple-level alignment.
