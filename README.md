@@ -18,9 +18,10 @@ The frequence of 20% or others need to be specified by manual, for example:
 
 ## Reference
 Please refer to our paper. 
-`@inproceedings{pei2019semi,
+
+@inproceedings{pei2019semi,
   title={Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference},
   author={Pei, Shichao and Yu, Lu and Hoehndorf, Robert and Zhang, Xiangliang},
   booktitle={The World Wide Web Conference},
   year={2019}
-}`
+}
