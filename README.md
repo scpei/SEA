@@ -1,4 +1,4 @@
-## SEA
+## Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 
 The implementation is based on the code and data of MTransE.
 
