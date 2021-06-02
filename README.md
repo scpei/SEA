@@ -16,3 +16,11 @@ The frequence of 20% or others need to be specified by manual, for example:
 15000 records with frequence. you need to specify the frequence of 15000*(20%...) = 3000th entity in the whole record.
 
 
+## Reference
+Please refer to our paper. 
+`@inproceedings{pei2019semi,
+  title={Semi-supervised entity alignment via knowledge graph embedding with awareness of degree difference},
+  author={Pei, Shichao and Yu, Lu and Hoehndorf, Robert and Zhang, Xiangliang},
+  booktitle={The World Wide Web Conference},
+  year={2019}
+}`
