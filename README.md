@@ -14,9 +14,6 @@ run `run_train_test.sh`
 
 Visit https://drive.google.com/file/d/1AsPPU4ka1Rc9u-XYMGWtvV65hF3egi0z/view to download the datasets.
 
-The frequence of 20% or others need to be specified by manual, for example:
-15000 records with frequence. you need to specify the frequence of 15000*(20%...) = 3000th entity in the whole record.
-
 ## Dependencies
 * Python>=3.5
 * Tensorflow>=1.1.0
